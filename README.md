@@ -19,10 +19,10 @@ cd /home/csgoserver/serverfiles/csgo
 
 wget https://mms.alliedmods.net/mmsdrop/1.10/mmsource-1.10.7-git971-linux.tar.gz
 
-wget https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6455-linux.tar.gz
+wget https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6456-linux.tar.gz
 
 tar -xzvf mmsource-1.10.7-git971-linux.tar.gz
 
-tar -xzvf sourcemod-1.10.0-git6455-linux.tar.gz
+tar -xzvf sourcemod-1.10.0-git6456-linux.tar.gz
 
 echo '
