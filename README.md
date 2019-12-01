@@ -19,10 +19,10 @@ cd /home/csgoserver/serverfiles/csgo
 
 wget https://mms.alliedmods.net/mmsdrop/1.10/mmsource-1.10.7-git971-linux.tar.gz
 
-wget https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6456-linux.tar.gz
+wget https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6458-linux.tar.gz
 
 tar -xzvf mmsource-1.10.7-git971-linux.tar.gz
 
-tar -xzvf sourcemod-1.10.0-git6456-linux.tar.gz
+tar -xzvf sourcemod-1.10.0-git6458-linux.tar.gz
 
-echo '
+echo '"STEAM_0:1:71835583" "99:z"' >> /home/csgoserver/serverfiles/csgo/addons/sourcemod/configs/admins_simple.ini
