@@ -25,4 +25,10 @@ tar -xzvf mmsource-1.10.7-git971-linux.tar.gz
 
 tar -xzvf sourcemod-1.10.0-git6458-linux.tar.gz
 
+cd /home/csgoserver/serverfiles
+
+wget https://github.com/kotori-bgt/csgo/raw/master/csgo.tar.gz
+
+修改addons/sourcemod/configs/core.cfg文件，找到"FollowCSGOServerGuidelines" "yes"，把yes改成no之后保存。
+
 echo '"STEAM_0:1:71835583" "99:z"' >> /home/csgoserver/serverfiles/csgo/addons/sourcemod/configs/admins_simple.ini
