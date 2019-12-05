@@ -10,3 +10,6 @@
 
 
 https://ptah.zizt.ru/ 下载最新的，然后去下载https://github.com/kaganus/weapons/releases/ 和https://github.com/kaganus/gloves/releases/ 下载
+
+
+修改addons/sourcemod/configs/core.cfg文件，找到"FollowCSGOServerGuidelines" "yes"，把yes改成no之后保存。
