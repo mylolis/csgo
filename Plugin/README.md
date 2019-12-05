@@ -7,3 +7,6 @@
 
 
 把gunmenu.ini放到csgo/addons/sourcemod/configs/
+
+
+https://ptah.zizt.ru/ 下载最新的，然后去下载https://github.com/kaganus/weapons/releases/ 和https://github.com/kaganus/gloves/releases/ 下载
