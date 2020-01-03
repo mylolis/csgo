@@ -9,6 +9,8 @@ wget -O linuxgsm.sh https://linuxgsm.sh && chmod +x linuxgsm.sh && bash linuxgsm
 
 ./csgoserver auto-install
 
+./csgoserver start
+
 cd /home/csgoserver/lgsm/config-lgsm/csgoserver
 
 cat _default.cfg > csgoserver.cfg
