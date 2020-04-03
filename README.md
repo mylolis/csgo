@@ -1,5 +1,5 @@
 # csgo
-yum -y install epel-release && yum -y install python3 file mailx postfix curl wget bzip2 gzip unzip python binutils bc jq tmux glibc.i686 libstdc++ libstdc++.i686
+yum -y install epel-release && yum -y install python3 file mailx postfix curl wget bzip2 gzip unzip python binutils bc jq tmux glibc.i686 libstdc++ libstdc++.i686 nmap-ncat
 
 su csgoserver
 
@@ -21,11 +21,11 @@ cd /home/csgoserver/serverfiles/csgo
 
 wget https://mms.alliedmods.net/mmsdrop/1.10/mmsource-1.10.7-git971-linux.tar.gz
 
-wget https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6460-linux.tar.gz
+wget https://sm.alliedmods.net/smdrop/1.10/sourcemod-1.10.0-git6478-linux.tar.gz
 
 tar -xzvf mmsource-1.10.7-git971-linux.tar.gz
 
-tar -xzvf sourcemod-1.10.0-git6460-linux.tar.gz
+tar -xzvf sourcemod-1.10.0-git6478-linux.tar.gz
 
 cd /home/csgoserver/serverfiles
 
