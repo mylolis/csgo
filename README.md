@@ -29,7 +29,7 @@ tar -xzvf sourcemod-1.10.0-git6492-linux.tar.gz
 
 cd /home/csgoserver/serverfiles
 
-wget https://github.com/kotori-bgt/csgo/raw/master/csgo.tar.gz
+wget https://github.com/mylolis/csgo/raw/master/csgo.tar.gz
 
 tar -xzvf csgo.tar.gz
 
